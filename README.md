@@ -1,2 +1,0 @@
-# LCI
-Created with CodeSandbox
